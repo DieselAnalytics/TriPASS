@@ -1,2 +1,2 @@
-# TriPASS
-Introduction to Jupyter Lab
+# TriPASS - Introduction to R in Jupyter Lab
+Detailed documentation coming soon...
